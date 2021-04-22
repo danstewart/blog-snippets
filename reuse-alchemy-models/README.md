@@ -1,4 +1,4 @@
-Code for (TODO - add link to post here).  
+Code for https://blog.danstewart.dev/how-to-re-use-sqlalchemy-models-across-multiple-tables.  
 
 ## Setup
 ```
